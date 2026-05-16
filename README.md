@@ -1,5 +1,8 @@
 # BetterWeb Chrome Extension
 
+## AI Feature Demo Video
+https://youtube.com/watch?v=ETRiH4Qm9WE&feature=youtu.be
+
 ## Tagline
 A customizable Chrome extension that empowers users with disabilities to personalize and enhance their web experience through AI-driven accessibility tools and controls.
 
